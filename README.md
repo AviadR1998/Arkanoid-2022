@@ -27,6 +27,19 @@ Welcome to Arkanoid 2022, an enhanced version of the classic Arkanoid game devel
 
 ## Screenshots :camera:
 
+https://github.com/AviadR1998/Arkanoid-2022/assets/96340949/cad61148-f39a-4fc0-a79d-add2dbf16dd7
+
+
+![11](https://github.com/AviadR1998/Arkanoid-2022/assets/96340949/38c66bec-f253-441f-bce0-3503c049c9e6)
+
+![3](https://github.com/AviadR1998/Arkanoid-2022/assets/96340949/719bd406-1eaf-44c4-b0a8-489887f1291c)
+
+
+![2](https://github.com/AviadR1998/Arkanoid-2022/assets/96340949/ddd524e5-b4e0-46a0-b973-72aad1a337f0)
+
+![4](https://github.com/AviadR1998/Arkanoid-2022/assets/96340949/9b11de9d-b846-48cf-a648-3d239a0c7773)
+
+
 ## Installation 🚀
 
 ### Option 1 - Without Ant
